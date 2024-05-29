@@ -4,7 +4,17 @@
 
 .Project-items {
         display: grid;
-        grid-template-columns: 10rem 10rem 10rem;
+        /* grid-template-columns: 10rem 10rem 10rem; */
+        grid-template-columns: 1fr;
         grid-gap: 1rem;
         grid-auto-flow: row;
+        border: 3px solid black;
+}
+
+.Project-secondary-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+        grid-auto-flow: row;
+        border: 3px solid red;
 }
