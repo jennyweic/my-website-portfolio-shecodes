@@ -1,0 +1,12 @@
+.Menu-container {
+    background-color:rgb(171, 106, 231);
+}
+
+ul {
+    float: right;
+    color:blanchedalmond;
+    text-align: center;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
