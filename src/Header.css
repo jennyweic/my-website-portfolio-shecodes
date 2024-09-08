@@ -1,3 +1,10 @@
 .homepage-header-container{
     background-color: rgb(175, 121, 226);
+    padding: 30px;
+    margin: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 3px;
 }

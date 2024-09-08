@@ -1,4 +1,30 @@
 .About-container {
-    border: 5px solid green;
-    background-color: green;
+    border: 5px solid rgb(218, 213, 213);
+    background-color: rgb(218, 213, 213);
+    padding:30px;
+
+}
+
+.About-project-items {
+    display: grid;
+    /* grid-template-columns: 10rem 10rem 10rem; */
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    grid-auto-flow: row;
+    border: 3px solid whitesmoke;
+}
+
+.About-connect-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+        grid-auto-flow: row;
+        border: 3px solid whitesmoke;
+    justify-content: center;
+    align-items:center;
+}
+
+.button-contacts {
+    margin: 5px;
+    padding-top:15px;
 }

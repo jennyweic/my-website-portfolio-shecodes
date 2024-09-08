@@ -27,20 +27,33 @@ export default function About(){
             </p>
         </div>
 
-        <div className="About-projects">
-            <h3>I build and design stuff</h3>
-            <p>Open-sourced projects, apps and experiments.</p>
-            <h3>I write, sometimes</h3>
+        <div className="About-projects-container">
+                <div className="About-project-items">
+                    <div className="items">
+                   <h3>I build and design stuff</h3>
+            <p>Open-sourced projects, apps and experiments.</p> 
+                </div>
+                <div className="items">
+                <h3>I write, sometimes</h3>
             <p>Summaries of key learnings and experience, and life. </p>
+            </div>
+                </div>
         </div>
 
-        <div className="About-connect">
+        <div className="About-connect-container">
             <h3>Connect</h3>
             <p>Connect and follow me on this journey.</p>
-            <p>Linkedin</p>
-            <p>GitHub</p>
-            <p>X</p>
-            <button>Contact</button>
+            <div className="About-connect-items">
+                <p>Linkedin</p>
+                <p>GitHub</p>    
+                <p>X</p>    
+            </div>
+         <div className="About-connect-secondary">
+            <div className="About-connect-secondary-items">
+              <button className="button-contacts">Contact</button>  
+            </div>
+         </div>
+            
         </div>
         </div>
     )
