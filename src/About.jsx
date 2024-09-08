@@ -22,8 +22,8 @@ export default function About(){
             I started this journey in August 2023, and now 9 months in (as I'm writing this in my local coffee shop), I am creating my own portfolio website, and setting up new projects to help solve real issues.
             I have thoroughly enjoyed the learning experience, the variety in resource available in the public domain and private courses, and how open and encouraging the community is in helping one another via forums and open sources.
             </p>
-            <p>Outside of coding, I am a natural crafter in other disciplines; creating leather accessories and other related art works, as well as my full time occupation as a senior marketer for a technology company.
-            Join me in this journey in sharing curiousity and encouraging a learn in public environment as I explore a different career path in coding.     
+            <p>Outside of coding, I am a natural crafter in other disciplines; creating leather accessories and other related art works, as well as my full time occupation as a senior marketer within the technology space.
+            Join my journey in sharing curiousity and encouraging a learn in public environment as I explore a different path in coding.     
             </p>
         </div>
 
@@ -35,7 +35,7 @@ export default function About(){
                 </div>
                 <div className="items">
                 <h3>I write, sometimes</h3>
-            <p>Summaries of key learnings and experience, and life. </p>
+            <p>Journal my key learnings, experience and life. </p>
             </div>
                 </div>
         </div>
@@ -44,16 +44,11 @@ export default function About(){
             <h3>Connect</h3>
             <p>Connect and follow me on this journey.</p>
             <div className="About-connect-items">
-                <p>Linkedin</p>
-                <p>GitHub</p>    
-                <p>X</p>    
-            </div>
-         <div className="About-connect-secondary">
-            <div className="About-connect-secondary-items">
-              <button className="button-contacts">Contact</button>  
-            </div>
-         </div>
-            
+                <button className="button-contacts">Linkedin</button>
+                <button className="button-contacts">GitHub</button>    
+                <button className="button-contacts">X</button>   
+                <button className="button-contacts">Contact</button>  
+            </div>    
         </div>
         </div>
     )
