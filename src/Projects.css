@@ -1,5 +1,6 @@
 .Projects-container{
-    background-color: pink;
+    margin-top: 5px;
+    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 }
 
 .Project-items {
@@ -8,13 +9,19 @@
         grid-template-columns: 1fr;
         grid-gap: 1rem;
         grid-auto-flow: row;
-        border: 3px solid black;
 }
 
 .Project-secondary-items {
+    margin-bottom: 5px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
         grid-auto-flow: row;
-        border: 3px solid red;
+       
+        
+        
+}
+
+.button-contacts {
+    margin: 5px;
 }

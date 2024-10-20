@@ -1,6 +1,6 @@
 .About-container {
-    border: 5px solid rgb(218, 213, 213);
-    background-color: rgb(218, 213, 213);
+    border: 5px solid rgba(255, 255, 255, 0.812);
+    background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     padding:30px;
 
 }
@@ -11,12 +11,12 @@
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
     grid-auto-flow: row;
-    border: 3px solid whitesmoke;
+    border: 3px solid rgba(255, 255, 255, 0.812);
 }
 
 .About-connect-container {
     margin-top: 5px;
-    border: 3px solid whitesmoke;
+    border: 3px solid rgba(255, 255, 255, 0.812);
 }
 
 .About-connect-items {

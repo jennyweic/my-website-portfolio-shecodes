@@ -1,7 +1,7 @@
 .homepage-header-container{
-    background-color: rgb(175, 121, 226);
+    background: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);;
     padding: 30px;
-    margin: 20px;
+
 }
 
 button {

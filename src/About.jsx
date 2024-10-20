@@ -39,17 +39,6 @@ export default function About(){
             </div>
                 </div>
         </div>
-
-        <div className="About-connect-container">
-            <h3>Connect</h3>
-            <p>Connect and follow me on this journey.</p>
-            <div className="About-connect-items">
-                <button className="button-contacts">Linkedin</button>
-                <button className="button-contacts">GitHub</button>    
-                <button className="button-contacts">X</button>   
-                <button className="button-contacts">Contact</button>  
-            </div>    
-        </div>
         </div>
     )
 }
