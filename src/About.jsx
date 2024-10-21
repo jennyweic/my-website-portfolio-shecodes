@@ -23,7 +23,7 @@ export default function About(){
             I have thoroughly enjoyed the learning experience, the variety in resource available in the public domain and private courses, and how open and encouraging the community is in helping one another via forums and open sources.
             </p>
             <p>Outside of coding, I am a natural crafter in other disciplines; creating leather accessories and other related art works, as well as my full time occupation as a senior marketer within the technology space.
-            Join my journey in sharing curiousity and encouraging a learn in public environment as I explore a different path in coding.     
+            Join my journey in sharing curiousity and encouraging a learn in public environment as I explore a different path in coding during my spare time.     
             </p>
         </div>
 

@@ -1,7 +1,8 @@
 .homepage-header-container{
     background: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);;
-    padding: 30px;
-
+    padding: 30px;    
+    position: sticky;
+    top:0;
 }
 
 button {

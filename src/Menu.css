@@ -1,7 +1,11 @@
 .Menu-container {
     background-color:rgb(171, 106, 231);
+    border-color: white;
     margin: 30px;
     gap: 15px;
+    position: sticky;
+    top:5px;
+    z-index: 1;
 }
 
 .Menu-items a {
@@ -10,6 +14,7 @@
 }
 
 ul {
+    display: flex;
     float: right;
     color:blanchedalmond;
     text-align: center;
