@@ -15,7 +15,8 @@ export default function Connect (){
         <a href="https://github.com/jennyweic">GitHub</a>
         </button>    
     <button className="button-contacts">
-    <a href="https://x.com/weicchan">X</button>   
+        <a href="https://x.com/weicchan">X</a>
+        </button>  
     <button className="button-contacts">
         <a href="/assets/Jennifer-Codes-CV.pdf" target="_blank">Read My CV</a>
     </button>  
