@@ -18,7 +18,7 @@ export default function Connect (){
         <a href="https://x.com/weicchan">X</a>
         </button>  
     <button className="button-contacts">
-        <a href="/assets/Jennifer-Codes-CV.pdf" target="_blank">Read My CV</a>
+        <a href="/src/assets/Jennifer-Codes-CV.pdf" target="_blank">Read My CV</a>
     </button>  
 </div>    
 </div>)
